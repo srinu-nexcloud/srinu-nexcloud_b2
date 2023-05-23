@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 srinu devops
+=======
+hello h r u srinu
+srinu the devops engineer
+if he do hardwork
+>>>>>>> a46aa05e6bafd6c93c7e39d08170ab9e318446d1
